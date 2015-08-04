@@ -1,0 +1,27 @@
+{
+  "name": "ucd3",
+  "version": "0.0.1",
+  "description": "UC D3 project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vancetran/ucd3.git"
+  },
+  "keywords": [
+    "d3"
+  ],
+  "author": "Kirill Mazin, Vance Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vancetran/ucd3/issues"
+  },
+  "homepage": "https://github.com/vancetran/ucd3",
+  "devDependencies": {
+    "express": "^4.13.3",
+    "open": "0.0.5"
+  }
+}
